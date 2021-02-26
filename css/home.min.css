@@ -1,0 +1,69 @@
+*{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif}
+ul{padding:0!important;list-style-type:none}
+a{text-decoration:none!important}
+.container{max-width:1200px!important}
+#top{background-color:#000;height:32px;text-align:center;font-size:13px;padding:5px 0;letter-spacing:1px}
+#top div:not(:last-child){border-right:1px solid #464444;height:26px}
+#top i{color:#2fdab8;margin-right:12px;font-size:11px}
+#top a{color:#fff}
+#top p{color:#fff}
+#top div:first-of-type{padding-left:55px}
+#search{height:105px;padding-top:25px}
+#search div{padding-left:40px}
+#search input[type=text]{outline:0;width:83%;padding:12px 10px;color:#848484;font-size:16px;border:1px solid #ddd;letter-spacing:1px;margin-right:5px}
+#search input[type=submit]{background:url(https://demo.w3layouts.com/demos_new/template_demo/20-06-2017/elite_shoppy-demo_Free/143933984/web/images/search.png) no-repeat 4px 0 #2fdab8;padding:15px 20px;width:15%}
+#search div.col-md-4:nth-child(2){margin-top:-8px}
+#search div.col-md-4:nth-child(2){position:relative}
+#search div.col-md-4:nth-child(2) i{position:absolute;top:86%;right:27%;color:#2fdab8;font-size:1.2rem}
+#search span{font-size:3rem;color:#fff;background-color:#000;padding:0 17px;font-weight:900}
+#search a{letter-spacing:1px;color:#000;font-size:3rem;font-weight:300}
+#search p{letter-spacing:2px;font-size:1rem;font-weight:500}
+#search .social{margin-top:13px;margin-left:-20px}
+#nav-bar{height:4.5rem;background-color:#000;margin-bottom:2rem;padding-top:1.5rem;text-align:center}
+#nav-bar ul li{width:15%;position:relative}
+#nav-bar ul li:last-child{width:30%;background-color:#2fdab8;margin-top:-24px;padding:17px}
+#nav-bar a{color:#fff;letter-spacing:1px}
+#nav-bar a::after{border-bottom:7px solid #2fdab8}
+#nav-bar button{padding:7px 15px;outline:0;background-color:#17c3a2;color:#000;border:none}
+#nav-bar i{font-size:19px;font-weight:600}
+.underline span::after{content:'';display:inline-block;position:absolute;border-bottom:10px solid #2fdab8;bottom:0;left:25%;width:50%}
+.underline li:not(:first-of-type) span{display:none}
+#nav-bar li:hover span{display:inline-block}
+.whyUs{height:10rem;padding-top:1.7rem}
+.whyUs div{padding-left:.9rem}
+.whyUs .d-flex:hover i{background-color:#2fdab8;transform-origin:center center;transition:all .9s ease-in-out}
+.whyUs div.col-md-9{margin-left:1rem}
+.whyUs i{font-size:1.3em;color:#fff;line-height:3.2em;background-color:#111;padding:5px 25px}
+.whyUs h3{color:#2fdab8;font-size:15px;font-weight:800;letter-spacing:1px}
+.whyUs p{letter-spacing:1px}
+.e span{color:#fff;background-color:#2fdab8;padding:0 10px;letter-spacing:2px;font-size:.9em;font-weight:600}
+.e a{font-weight:300}
+.e p{margin-top:1rem;letter-spacing:1px;line-height:2em;font-size:14px}
+.social ul li{margin-right:15px}
+.social i{display:block;width:32px;height:32px;line-height:32px;text-align:center;color:#fff;font-size:14px}
+.social ul li:nth-of-type(1){background-color:#3b5998}
+.social ul li:nth-of-type(2){background-color:#1da1f2}
+.social ul li:nth-of-type(3){background-color:#f77737}
+.social ul li:nth-of-type(4){background-color:#bd081c}
+.footer{color:#737070;background-color:#000;padding-top:3rem}
+.footer.col-md-3{margin-right:10px}
+.footer a{text-decoration:none;color:#fff}
+.footer a:hover{color:#fff}
+.footer ul li{list-style-type:none}
+.footer h4{color:#fff;font-weight:300;letter-spacing:1px;font-size:1.2rem;margin-bottom:25px}
+.footer h4 span{font-weight:600}
+.footer h6{color:#fff}
+.mail a{color:#2fdab8}
+.mail a:hover{color:#b5b5b5}
+.flickr img{width:65%;cursor:pointer;margin-right:10px}
+.menu-bar li a{color:#737070;line-height:2em;font-size:14px}
+.menu-bar li a:hover{color:#2fdab8}
+i.col-md-2{color:#fff;margin-top:5px}
+.wrapper{margin-left:-40px;background-color:#080808;margin-bottom:10px;padding:.7em}
+.d-flex h6{font-weight:600}
+.d-flex p{letter-spacing:1px;font-size:.9em;margin-top:1em}
+.left h3{margin-top:7px;font-size:22px;color:#fff;letter-spacing:3px;font-weight:700}
+input[name=email]{outline:0;padding:10px 14px;color:#848484;font-size:14px;border:1px solid #3a3939;width:74%;letter-spacing:3px;background:#1f1f1f}
+input[type=submit]{border:none;padding:10px 20px 11px;font-size:15px;outline:0;margin:0 0 0 -4px;font-weight:700;letter-spacing:1px;background:#2fdab8;color:#fff}
+.c{text-align:center;letter-spacing:1px;padding:3em 0}
+.c span{color:#fff}
